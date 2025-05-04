@@ -4,6 +4,7 @@
 
 # (221220)Profiling Code in Rust - by Vitaly Bragilevsky - Rust Linz, December 2022 | Rust
 - https://youtu.be/JRMOIE_wAFk?si=Ngl2T0FWl74H8v_5
+  - 동영상내용 github 코드(https://github.com/bravit/generate_parentheses)
 
 # Rust Profiling 도구 종류
 - https://nnethercote.github.io/perf-book/profiling.html
@@ -48,6 +49,3 @@ statement with frequency-based post-processing, which is good for getting
 domain-specific insights into parts of your code. It works on all platforms.</li>
 <li><a href="https://github.com/plasma-umass/coz">Coz</a> performs <em>causal profiling</em> to measure optimization potential, and has
 Rust support via <a href="https://github.com/plasma-umass/coz/tree/master/rust">coz-rs</a>. It works on Linux.</li>
-
-    counts supports ad hoc profiling, which combines the use of eprintln! statement with frequency-based post-processing, which is good for getting domain-specific insights into parts of your code. It works on all platforms.
-    Coz performs causal profiling to measure optimization potential, and has Rust support via coz-rs. It works on Linux.
