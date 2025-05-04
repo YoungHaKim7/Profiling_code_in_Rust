@@ -1,6 +1,18 @@
 # Profiling_code_in_Rust
 - https://github.com/flamegraph-rs/flamegraph
 
+- Install it, and run
+
+```bash
+# Rust projects
+cargo flamegraph
+
+# Arbitrary binaries
+flamegraph -- /path/to/binary
+```
+
+<hr />
+
 
 # (221220)Profiling Code in Rust - by Vitaly Bragilevsky - Rust Linz, December 2022 | Rust
 - https://youtu.be/JRMOIE_wAFk?si=Ngl2T0FWl74H8v_5
