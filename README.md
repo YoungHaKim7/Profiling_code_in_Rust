@@ -11,6 +11,12 @@ cargo flamegraph
 flamegraph -- /path/to/binary
 ```
 
+# How to interpret a flamegraph? 
+- https://www.reddit.com/r/rust/comments/wf9mbn/how_to_interpret_a_flamegraph/?rdt=61382
+
+# C++로 만든 hotspot 
+https://github.com/KDAB/hotspot
+
 <hr />
 
 
