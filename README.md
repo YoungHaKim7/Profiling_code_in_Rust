@@ -20,9 +20,16 @@ https://github.com/KDAB/hotspot
 <hr />
 
 
+
 # (221220)Profiling Code in Rust - by Vitaly Bragilevsky - Rust Linz, December 2022 | Rust
 - https://youtu.be/JRMOIE_wAFk?si=Ngl2T0FWl74H8v_5
   - 동영상내용 github 코드(https://github.com/bravit/generate_parentheses)
+
+- [(230110) Heap profiling Rust programs with DHAT | chris biscardi](https://youtu.be/AJhKaoyc4pY?si=bkzCTuFCtmY3DNqd)
+
+
+
+<hr />
 
 # Rust Profiling 도구 종류
 - https://nnethercote.github.io/perf-book/profiling.html
