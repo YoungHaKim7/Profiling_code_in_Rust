@@ -29,7 +29,7 @@ fn main() -> Result<()> {
         points.push(point);
     }
 
-    println!("dhat_heap : {:?}", part1(&points));
+    println!("dhat_heap : {:?}", part1(&points)?);
 
     // part1(&points)?;
     Ok(())
