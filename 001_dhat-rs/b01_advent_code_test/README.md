@@ -1,3 +1,8 @@
+# json 파일 여기서 로드하면 이쁘게 보임
+- https://nnethercote.github.io/dh_view/dh_view.html
+
+<hr />
+
 # Result
 - https://github.com/YoungHaKim7/advent-of-code2018/tree/master
 
