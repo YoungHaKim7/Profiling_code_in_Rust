@@ -1,0 +1,13 @@
+[package]
+name = "b01_advent_code_test"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dhat = "0.3.3"
+
+[profile.release]
+debug =  1
+
+[features]
+dhat-heap = []
