@@ -11,7 +11,7 @@ $ cargo run --features dhat-heap --bin advent2018_day25 --release < ./input/inpu
 
 constellations: 327
 
-dhat_heap : Ok(())
+dhat_heap : ()
 dhat: Total:     368,624 bytes in 3,035 blocks
 dhat: At t-gmax: 139,776 bytes in 334 blocks
 dhat: At t-end:  9,344 bytes in 4 blocks
