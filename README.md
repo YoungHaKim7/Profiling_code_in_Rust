@@ -28,6 +28,13 @@ flamegraph -- /path/to/binary
 
 - [(230515)I built my own memory profiler(in Rust, On Linux](https://www.youtube.com/watch?v=DpnXaNkM9_M)
 
+- samply
+  - [(240824)Performance Optimization in Rust - How to Profile with Samply](https://www.youtube.com/watch?v=M_EniM_IfnQ)
+
+# samply
+- samply is a command line CPU profiler which uses the Firefox profiler as its UI.
+  - https://github.com/mstange/samply
+
 <hr />
 
 # C++로 만든 hotspot 
