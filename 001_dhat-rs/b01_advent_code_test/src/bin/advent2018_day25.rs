@@ -14,6 +14,7 @@ type Result<T> = result::Result<T, Box<dyn Error>>;
 #[cfg(feature = "dhat-heap")]
 #[global_allocator]
 static ALLOC: dhat::Alloc = dhat::Alloc;
+
 fn main() -> Result<()> {
     #[cfg(feature = "dhat-heap")]
     let _profiler_ = dhat::Profiler::new_heap();
@@ -29,9 +30,9 @@ fn main() -> Result<()> {
         points.push(point);
     }
 
-    println!("dhat_heap : {:?}", part1(&points)?);
+    println!("dhat_heap ~~~~");
 
-    // part1(&points)?;
+    part1(&points)?;
     Ok(())
 }
 
