@@ -1,3 +1,12 @@
+# dhat 사용법(valgrind)
+- https://valgrind.org/docs/manual/dh-manual.html
+
+```bash
+$ valgrind --tool=dhat ./program
+```
+
+<hr />
+
 # Heap profiling Rust programs with DHAT | chris biscardi
 - https://youtu.be/AJhKaoyc4pY?si=dHJVZaSoGG03TEe6
 

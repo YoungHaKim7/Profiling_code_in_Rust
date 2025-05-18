@@ -1,0 +1,6 @@
+[package]
+name = "c01_linux_advent_code_test_valgrind"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -20,6 +20,17 @@ flamegraph -- /path/to/binary
 
 <hr />
 
+# dhat 사용법(valgrind)
+- https://valgrind.org/docs/manual/dh-manual.html
+
+```bash
+$ valgrind --tool=dhat ./program
+```
+
+<hr />
+
+<hr />
+
 # (221220)Profiling Code in Rust - by Vitaly Bragilevsky - Rust Linz, December 2022 | Rust
 - https://youtu.be/JRMOIE_wAFk?si=Ngl2T0FWl74H8v_5
   - 동영상내용 github 코드(https://github.com/bravit/generate_parentheses)
